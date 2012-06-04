@@ -8,16 +8,6 @@ int main(int, char **)
 	{
 		switch(--s)
 		{
-		case 14:
-		case 13:
-		case 11:
-		case 8:
-		case 7:
-		case 4:
-		case 2:
-		case 1:
-			break;
-
 		case 12:
 		case 9:
 		case 6:
