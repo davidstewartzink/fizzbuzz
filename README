@@ -1,0 +1,2 @@
+This is an implementation of FizzBuzz in C++ using Duff's device, as
+any sensible person would.
